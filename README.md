@@ -21,7 +21,7 @@ This code performs the following tasks:
   - It adds the price of each item to the totalPrice variable.
     
 3. Adding the Tax:
-  - After calculating the total price, the code adds 10% tax to the total price using the formula: totalPriceWithTaxes = totalPrice + (totalPrice * taxes) .
+  - After calculating the total price, the code adds 10% tax to the total price using the formula : totalPriceWithTaxes = totalPrice + (totalPrice * taxes) .
     
 4. Printing the Results:
   The program prints:
